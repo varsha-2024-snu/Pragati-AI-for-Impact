@@ -60,4 +60,3 @@ We are a passionate student team from **Shiv Nadar University, Chennai**, buildi
 
 ---
 
-> 💡 *Feel free to fork this project or contribute to our mission of AI for agriculture!*
